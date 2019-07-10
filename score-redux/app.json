@@ -1,0 +1,12 @@
+{
+    "expo": {
+        "sdkVersion": "27.0.0",
+        "icon": "./simple-score.png",
+        "primaryColor": "#ffffff",
+        "name": "Simple Score",
+        "version": "1.0.0",
+        "ios": {
+            "bundleIdentifier": "com.tylersustare.simple-score"
+        }
+    }
+}
